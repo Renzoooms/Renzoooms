@@ -39,7 +39,7 @@ I’m motivated by continuous learning — exploring how **engineering**, **data
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/renzo-samson-169841270/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/renzosmsn/)  
 - 🌐 [Portfolio Website]() _(coming soon!)_  
 - ✉️ mercadorenzo09172@gmail.com
 
